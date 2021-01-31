@@ -1,0 +1,348 @@
+D:\Projects\Receipt\Receipt\bin\Debug\Receipt.exe.config
+D:\Projects\Receipt\Receipt\bin\Debug\Receipt.exe
+D:\Projects\Receipt\Receipt\bin\Debug\Receipt.pdb
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Projects\Receipt\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.frmMain.resources
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.exe.licenses
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.exe
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.pdb
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.DialogForm.resources
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.frmCompany.resources
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.frmVehicle.resources
+D:\Projects\Receipt\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogVat.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogForm.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVehicle.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmCompany.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmMain.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.exe.config
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.exe
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.pdb
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.xml
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.exe
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.pdb
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.exe.licenses
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmWaitIndicator.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVatList.resources
+H:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.exe.config
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.exe
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.pdb
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.exe
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\Receipt.pdb
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogVat.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogForm.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVatList.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVehicle.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmCompany.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmWaitIndicator.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.frmMain.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
+G:\OneDrive - Petrovis\Software\Demostration\Receipt & Vat\Receipt\obj\Debug\Receipt.exe.licenses
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\Receipt.exe.config
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.exe
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.pdb
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\Receipt.exe
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\Receipt.pdb
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Data.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Utils.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraBars.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogVat.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogForm.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVatList.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVehicle.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmCompany.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmWaitIndicator.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmMain.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.Properties.Resources.resources
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.exe.licenses
