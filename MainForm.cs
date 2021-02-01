@@ -12,6 +12,7 @@ using System.Threading;
 using System.Data.SqlClient;
 using System.Web.Script.Serialization;
 using System.IO;
+using Receipt.Properties;
 
 namespace Receipt
 {
@@ -151,6 +152,7 @@ namespace Receipt
         #region[Form Events]
         private void frmMain_Load(object sender, EventArgs e)
         {
+            btnStart.Image = Resources.play_button;
             //Crypt.Encrypt(config.password, "Simple")
             //Crypt.Decrypt(config.password, "Simple");
 
@@ -178,7 +180,7 @@ namespace Receipt
             running = true;
             thread = new Thread(Fillings);
             thread.IsBackground = true;
-            thread.Start();
+            //thread.Start();
         }
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -267,20 +269,25 @@ namespace Receipt
         #region[Buttons]
         private void btnStart_Click(object sender, EventArgs e)
         {
-            btnStop.Enabled = true;
-            running = true;
+            if (!running)
+            {
+                running = true;
 
-            thread = new Thread(Fillings);
-            thread.IsBackground = true;
-            thread.Start();
+                thread = new Thread(Fillings);
+                thread.IsBackground = true;
+                thread.Start();
 
-            btnStart.Enabled = false;
+                btnStart.Image = Resources.play_button;
+            }
+            else
+            {
+                running = false;
+                btnStart.Image = Resources.money;
+            }
         }
         private void btnStop_Click(object sender, EventArgs e)
         {
-            btnStart.Enabled = true;
-            running = false;
-            btnStop.Enabled = false;
+            
         }
         private void btnCompany_Click(object sender, EventArgs e)
         {
@@ -307,7 +314,7 @@ namespace Receipt
             {
                 MessageBox.Show(this, res.Desc, "Мэдээлэл", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-        }
+        } 
         private void subVatSend_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             using (var wait = new DevExpress.XtraSplashScreen.SplashScreenManager(this, typeof(frmWaitIndicator), true, true, false))

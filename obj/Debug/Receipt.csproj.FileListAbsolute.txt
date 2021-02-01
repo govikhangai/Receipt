@@ -335,7 +335,6 @@ G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\de\DevEx
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
-G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.csprojResolveAssemblyReference.cache
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogVat.resources
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.DialogForm.resources
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.frmVatList.resources
@@ -346,3 +345,4 @@ G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.Properties.Resources.resources
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.csproj.GenerateResource.Cache
 G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\obj\Debug\Receipt.exe.licenses
+G:\OneDrive - Petrovis\Software\Project\Receipt & Vat\Receipt\bin\Debug\DevExpress.BonusSkins.v15.1.dll

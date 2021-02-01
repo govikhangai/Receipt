@@ -165,7 +165,7 @@ namespace Receipt
                 MessageBox.Show(ex.Message);
             }
         }
-        private void SearchCustomer_EditValueChanging(object sender, DevExpress.XtraEditors.Controls.ChangingEventArgs e)
+        private async void SearchCustomer_EditValueChanging(object sender, DevExpress.XtraEditors.Controls.ChangingEventArgs e)
         {
             txtCustomerName.EditValue = null;
 
@@ -173,7 +173,7 @@ namespace Receipt
             {
                 if (IsNumeric(txtSearchCustomer.Text))
                 {
-                    if (txtSearchCustomer.Text.Length == 7) GetTaxPayer(txtSearchCustomer.Text);
+                    if (txtSearchCustomer.Text.Length == 7) await GetTaxPayer(txtSearchCustomer.Text);
                     else if (txtSearchCustomer.Text.Length > 7)
                     {
                         txtCustomerName.EditValue = null;
@@ -181,7 +181,7 @@ namespace Receipt
                 }
                 else
                 {
-                    if (txtSearchCustomer.Text.Length == 10) GetTaxPayer(txtSearchCustomer.Text);
+                    if (txtSearchCustomer.Text.Length == 10) await GetTaxPayer(txtSearchCustomer.Text);
                     else if (txtSearchCustomer.Text.Length > 10)
                     {
                         txtCustomerName.EditValue = null;
@@ -189,9 +189,9 @@ namespace Receipt
                 }
             }
         }
-        private void SearchCustomer_ButtonClick(object sender, DevExpress.XtraEditors.Controls.ButtonPressedEventArgs e)
+        private async void SearchCustomer_ButtonClick(object sender, DevExpress.XtraEditors.Controls.ButtonPressedEventArgs e)
         {
-            if (e.Button.Caption == "Хайх") GetTaxPayer(txtSearchCustomer.Text);
+            if (e.Button.Caption == "Хайх") await GetTaxPayer(txtSearchCustomer.Text);
             else
             {
                 txtSearchCustomer.EditValue = null;

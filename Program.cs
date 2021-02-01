@@ -4,6 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Web.Script.Serialization;
+using System.Threading;
+using System.Globalization;
+
+using DevExpress.Skins;
+using DevExpress.UserSkins;
+using DevExpress.LookAndFeel;
 
 namespace Receipt
 {
@@ -34,6 +40,31 @@ namespace Receipt
                 stationNo = apires.branchNo;
                 posId = apires.posId;
             }
+            CultureInfo ci = new CultureInfo("en-US")
+            {
+                DateTimeFormat = new DateTimeFormatInfo()
+                {
+                    LongDatePattern = "yyyy-MM-dd HH:mm:ss.fff",
+                    ShortDatePattern = "yyyy-MM-dd",
+                    ShortTimePattern = "HH:mm:ss",
+                    FullDateTimePattern = "yyyy-MM-dd HH:mm:ss.fff",
+                },
+                NumberFormat = new NumberFormatInfo()
+                {
+                    CurrencyDecimalSeparator = ".",
+                    CurrencyGroupSeparator = ",",
+                    NumberDecimalSeparator = ".",
+                    NumberGroupSeparator = ","
+                }
+            };
+
+            Thread.CurrentThread.CurrentCulture = ci;
+            //Static.ci = ci;
+            
+            BonusSkins.Register();
+            SkinManager.EnableFormSkins();
+
+            UserLookAndFeel.Default.SetSkinStyle("Darkroom");
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
